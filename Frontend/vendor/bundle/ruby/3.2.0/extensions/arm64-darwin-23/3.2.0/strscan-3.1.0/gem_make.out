@@ -1,0 +1,21 @@
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+/Users/swatantrasonkar/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/swatantrasonkar/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-wdj73f sitelibdir\=./.gem.20240902-92979-wdj73f clean
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-wdj73f sitelibdir\=./.gem.20240902-92979-wdj73f
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-wdj73f sitelibdir\=./.gem.20240902-92979-wdj73f install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20240902-92979-wdj73f
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-wdj73f sitelibdir\=./.gem.20240902-92979-wdj73f clean

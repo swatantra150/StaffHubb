@@ -1,0 +1,16 @@
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/swatantrasonkar/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/swatantrasonkar/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-f43ujl sitelibdir\=./.gem.20240902-92979-f43ujl clean
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-f43ujl sitelibdir\=./.gem.20240902-92979-f43ujl
+make: Nothing to be done for `all'.
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-f43ujl sitelibdir\=./.gem.20240902-92979-f43ujl install
+
+current directory: /Users/swatantrasonkar/Desktop/React_native/StaffHub/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240902-92979-f43ujl sitelibdir\=./.gem.20240902-92979-f43ujl clean
